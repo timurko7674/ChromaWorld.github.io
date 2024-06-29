@@ -1,4 +1,4 @@
-=<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -20,7 +20,7 @@
     </main>
 
     <footer>
-        <p>&copy; 2024 Your Game Studio Name. All rights reserved.</p>
+        <p>&copy; 2024 Enter Corp. All rights reserved.</p>
     </footer>
 
     <script src="game.js"></script>
